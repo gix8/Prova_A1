@@ -1,0 +1,4 @@
+CURSO;Orienta‡Æo a objetos Java;quando cadastrei eu percebi que ia ser mais correto isso ficar no modulo mas agr ja foi, ‚ s¢ um teste mesmo, vamo q vamo.;Jason
+MODULO;Orienta‡Æo a objetos Java;POO;mais Orienta‡Æo a objetos em java
+AULA;Orienta‡Æo a objetos Java;POO;Aula de tratamento de exce‡äes;Tratamento de exce‡äes em POO java;180
+AULA;Orienta‡Æo a objetos Java;POO;Manipula‡Æo de arquivos;como manipular arquivos em java com POO;120
