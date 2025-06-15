@@ -76,3 +76,5 @@ Java SE API Documentation: https://docs.oracle.com/javase/8/docs/api/
 Slides e aulas do curso
 
 IDE utilizada: VS Code com extensão Java
+
+Código desenvolvido por Giovani Xiscatti Arndt(RGM 8837734571) e Juliano Faleiros Buzatto(RGM 8837188941)
